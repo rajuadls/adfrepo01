@@ -1,0 +1,9 @@
+{
+	"name": "adfraju123",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d0ef439-e8e8-4ffb-a285-05375e3faa03",
+		"tenantId": "862f7f36-59f1-4fef-829f-a319ea95a23e"
+	}
+}
